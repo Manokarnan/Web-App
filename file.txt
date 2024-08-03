@@ -1,1 +1,1 @@
-mano: hello
+mano: hi
